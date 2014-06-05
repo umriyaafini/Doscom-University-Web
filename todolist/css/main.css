@@ -1,0 +1,59 @@
+body{
+	background-color: #eeeeee;
+	font-size: 20px;
+	color: #333;
+}
+
+.form-list{
+	background-color: #E74C3C;
+	padding: 50px;
+	border-radius: 20px;
+	display: block;
+	text-align: center;
+}
+.kotak-luar{
+	padding-left: 10%;
+	width: 80%;
+	padding-right: 10%;
+}
+.kotak-tabel{
+}
+
+button{
+	width: 80px;
+	height: 80px;
+	background-color: #333;
+	color: #E74C3C;
+	border-radius: 100%
+}
+
+.input-todo{
+	height: 50px;
+	width: 400px;
+	font-size: 25px;
+	border-radius: 10px;
+}
+
+.label-tanggal{
+	color: #fff;
+	font-size: 10px;
+}
+.input-tanggal{
+	font-size: 10px;
+	border-radius: 5px;
+}
+.kotak-list{
+	padding: 50px;
+	width: 500px;
+	background-color: #333;
+	color: #E74C3C;
+	border-radius: 10px;
+
+}
+td{
+	padding: 5px;
+}
+table{
+	border:1px solid #fff;
+	padding: 20px;
+}
