@@ -22,6 +22,5 @@ agar tidak menimbulkan error pada database, atau lebih parah merusak
 database (SQL injection)
 
 > > * $ssql->execute ( ) = digunakan untuk memasukkan inputan dengan
-parameter berupa array sejumlah unnamed placeholder pada SQL
-statement.
+parameter berupa array sejumlah unnamed placeholder pada SQL statement.
 ------------------------------------------------------------------------------------
