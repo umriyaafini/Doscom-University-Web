@@ -16,6 +16,8 @@
 * edit list todo
 
 > more about PDO : http://www.php.net/manual/en/intro.pdo.php
+
+
 >	fetch_assoc -> mengubah data table menjasi assosiatif array
 > * $db->prepare( ... ) = digunakan untuk menyaring string SQL yang diberikan
 agar tidak menimbulkan error pada database, atau lebih parah merusak
