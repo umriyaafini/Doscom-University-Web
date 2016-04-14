@@ -1,0 +1,46 @@
+prasyarat
+
+- curious
+- persistence
+- fokus
+
+
+- apa itu internet?
+- bagaimana cara pengiriman data?
+- apa itu client?
+- apa itu server?
+- apa itu HTTP? bagaimana permintaan HTTP bekerja?
+- apa itu DNS server?
+- apa perbedaan website statis dan website dinamis?
+- apa itu web inspector/ dev tool (browser)?
+- apa yang terjadi saat anda mengnekan tombol "cari" di google?
+
+
+- apa itu HTML dan bagaimana cara menggunakannya?
+- apa itu CSS dan bagaimana cara menggunakannya?
+
+pertanyaan
+- apa itu psuedo element
+- cara memberitahu browser kalau dokumen HTML menggunakan versi HTML5 ? 
+    <!DOCTYPE html>
+- tag baru pada HTML5 
+    <header>, <footer>, <article>, <section>, <svg>, <canvas>, <audio>,  <video>.
+- support HTML5 untuk IE8 dan sebelumnya?
+    <head>
+        <!--[if lt IE 9]>
+          <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+- 
+
+
+- buatlah 3 buah dokumen html (list.html, form.html dan tabel.html) untuk menampilkan masing-masing list, form dan tabel. 
+- konten untuk ketiga file tersebut tidak ditentukan. (poin utamanya adalah penggunaan tag-tag html yang tepat)
+- buatlah sebuah file css yang berisi style dari ketiga dokumen tersebut.
+
+
+link
+html tags : http://www.w3schools.com/tags/default.asp
+http://www.w3schools.com/cssref/css_selectors.asp
+http://www.w3schools.com/cssref/trysel.asp
+

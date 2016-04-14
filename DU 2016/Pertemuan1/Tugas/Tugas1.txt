@@ -1,0 +1,25 @@
+Buatlah ringkasan materi pertemuan pertama untuk membantu pemahaman anda dengan menjawab pertanyaan sebagai berikut:
+
+Apa itu Internet?
+Bagaimana cara pengiriman data?
+Apa itu client dan server?
+Apa itu HTTP?
+Apa itu website?
+Apa perbedaan website statis dan website dinamis?
+Apa itu web inspector?
+Apa yang terjadi saat anda mengnekan tombol "cari" di google?
+Apa itu HTML dan bagaimana cara menggunakannya?
+Apa itu CSS dan bagaimana cara menggunakannya?
+Apa itu class dan id dalam CSS dan apa bedanya?
+Apa itu element?
+Apa itu tag?
+Apa itu div?
+Apa itu selector?
+Apa itu properti?
+Apa itu value?
+Mengapa kita memisahkan HTML dan CSS?
+
+semangat ;)
+
+Jawaban 
+------------------------------

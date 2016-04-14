@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="blog-wireframe.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter3873">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.8062402"
+         id="feGaussianBlur3875" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="5848.8259"
+     inkscape:cy="491.53738"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="rect3982"
+       width="755.61279"
+       height="550"
+       x="136.89301"
+       y="-4694.9624"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1.147664,-1,0,2908.0091,-12.859593)"
+       y="-2151.9536"
+       x="126.79147"
+       height="1280"
+       width="1042.4961"
+       id="rect3934"
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3873)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3936"
+       width="1196.4353"
+       height="1280"
+       x="132.65442"
+       y="-5059.9624"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3873)"
+       id="rect4042"
+       width="1042.4961"
+       height="1280"
+       x="126.79147"
+       y="-2151.9536"
+       transform="matrix(0,1.1551081,-1,0,4433.7234,-13.643075)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-6585.6768"
+       x="132.81479"
+       height="1280"
+       width="1204.1958"
+       id="rect4044"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-3209.2483"
+       x="136.89301"
+       height="550"
+       width="755.61279"
+       id="rect3879"
+       style="fill:#ffff00;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3873)"
+       id="rect3877"
+       width="1042.4961"
+       height="1280"
+       x="126.79147"
+       y="-2151.9536"
+       transform="matrix(0,1.7851958,-1,0,1422.2948,-88.614447)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3883"
+       width="1366.95"
+       height="1080"
+       x="137.73315"
+       y="-3474.2483"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-3574.2483"
+       x="137.73315"
+       height="1280"
+       width="1861.0597"
+       id="rect3881"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-2151.9536"
+       x="126.79147"
+       height="1280"
+       width="1042.4961"
+       id="rect3103"
+       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3873);opacity:0.1" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="rect3016"
+       width="755.61279"
+       height="550"
+       x="136.89301"
+       y="-1786.9536"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="1042.4961"
+       height="1280"
+       x="126.79147"
+       y="-2151.9536"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-2051.9536"
+       x="126.79147"
+       height="1080"
+       width="765.71429"
+       id="rect2995"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-2151.9536"
+       x="126.79147"
+       height="1280"
+       width="100"
+       id="rect2987"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="970.71362"
+       y="183.20148"
+       id="text2989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="970.71362"
+         y="183.20148"
+         style="font-size:20px;fill:#000000">STAY INSPIRED</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path2993"
+       sodipodi:cx="1294.2858"
+       sodipodi:cy="246.6479"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       d="m 1314.2858,246.6479 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
+       transform="matrix(1.25,0,0,1.25,409.09641,-131.51841)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="1239.2858"
+       y="248.07648"
+       id="text3018"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1239.2858"
+         y="248.07648"
+         id="tspan3022" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3024"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Colaborate-Bold;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Colaborate-Bold;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3026"><rect
+           id="rect3028"
+           width="550"
+           height="105.71429"
+           x="1235"
+           y="125.93361" /></flowRegion><flowPara
+         id="flowPara3030" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3032"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+       transform="translate(0,303.44166)"><flowRegion
+         id="flowRegion3034"><rect
+           id="rect3036"
+           width="551.42859"
+           height="606.974"
+           x="1235.7142"
+           y="125.93361"
+           style="-inkscape-font-specification:Andale Mono;font-family:Andale Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara3038"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">Happiness is the purpose of life. Despite this, only one in three Americans says they're very happy.</flowPara><flowPara
+         id="flowPara3040"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" /><flowPara
+         id="flowPara3042"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">Several years ago in an interview with Connan O'Brien, Louis C. K. tells of flying on a newly equipped Wi-Fi airplane. He was amazed by the new technology. Until, during the flight, thw Wi-Fi went down. Immidiately, the man next to him became extremelu upset. &quot;As though the world owes this man something he only knew existed 10 second ago&quot;.</flowPara><flowPara
+         id="flowPara3044"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" /><flowPara
+         id="flowPara3046"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">Louis C. K. continues by describing people's absurd frustration with flying in general. People complain about it all the time &quot;It was the worst day of my life! It took 20 minutes to board! We had to sit on the runaway for 40 minutes!&quot;We hear complains like these all the time. As if we've forgotte how incredible it is that human can fly at all.</flowPara><flowPara
+         id="flowPara3048"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" /><flowPara
+         id="flowPara3050"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3052"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       transform="translate(0,149.50258)"><flowRegion
+         id="flowRegion3054"><rect
+           id="rect3056"
+           width="550.53314"
+           height="101.01525"
+           x="1235.4165"
+           y="128.0726" /></flowRegion><flowPara
+         id="flowPara3070"
+         style="font-size:32px">The Secret to Happiness Is 10 Specific Behaviours</flowPara><flowPara
+         id="flowPara3101"
+         style="font-size:32px" /></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3885"
+       width="100"
+       height="1280"
+       x="126.79147"
+       y="-3574.2483"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3887"
+       y="183.20148"
+       x="2393.0083"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       xml:space="preserve"><tspan
+         style="font-size:20px;fill:#000000"
+         y="183.20148"
+         x="2393.0083"
+         id="tspan3889"
+         sodipodi:role="line">STAY INSPIRED</tspan></text>
+    <path
+       transform="matrix(1.25,0,0,1.25,1831.3912,-131.51841)"
+       d="m 1314.2858,246.6479 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
+       sodipodi:ry="20"
+       sodipodi:rx="20"
+       sodipodi:cy="246.6479"
+       sodipodi:cx="1294.2858"
+       id="path3891"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <flowRoot
+       transform="translate(1422.2948,892.28582)"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+       id="flowRoot3893"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3895"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+           y="125.93361"
+           x="1235.7142"
+           height="606.974"
+           width="551.42859"
+           id="rect3897" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3899">Happiness is the purpose of life. Despite this, only one in three Americans says they're very happy.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3901" /><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3903">Several years ago in an interview with Connan O'Brien, Louis C. K. tells of flying on a newly equipped Wi-Fi airplane. He was amazed by the new technology. Until, during the flight, thw Wi-Fi went down. Immidiately, the man next to him became extremelu upset. &quot;As though the world owes this man something he only knew existed 10 second ago&quot;.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3905" /><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3907">Louis C. K. continues by describing people's absurd frustration with flying in general. People complain about it all the time &quot;It was the worst day of my life! It took 20 minutes to board! We had to sit on the runaway for 40 minutes!&quot;We hear complains like these all the time. As if we've forgotte how incredible it is that human can fly at all.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3909" /><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         id="flowPara3911" /></flowRoot>    <flowRoot
+       transform="translate(1422.2948,149.50258)"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       id="flowRoot3913"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3915"><rect
+           y="128.0726"
+           x="1235.4165"
+           height="101.01525"
+           width="550.53314"
+           id="rect3917" /></flowRegion><flowPara
+         style="font-size:32px"
+         id="flowPara3919">The Secret to Happiness Is 10 Specific Behaviours</flowPara><flowPara
+         style="font-size:32px"
+         id="flowPara3921" /></flowRoot>    <image
+       y="406.29004"
+       x="2570"
+       id="image3931"
+       xlink:href="file:///media/umriya/DATA21/Nggambar/gambar%20unspash/103.jpg"
+       height="549"
+       width="700" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-5059.9624"
+       x="126.79147"
+       height="1280"
+       width="100"
+       id="rect3942"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="3878.7227"
+       y="183.20148"
+       id="text3944"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3946"
+         x="3878.7227"
+         y="183.20148"
+         style="font-size:20px;fill:#000000">STAY INSPIRED</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3948"
+       sodipodi:cx="1294.2858"
+       sodipodi:cy="246.6479"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       d="m 1314.2858,246.6479 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
+       transform="matrix(1.25,0,0,1.25,3317.1055,-131.51841)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3984"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       transform="translate(2909.3299,150.93115)"><flowRegion
+         id="flowRegion3986"><rect
+           id="rect3988"
+           width="550.53314"
+           height="101.01525"
+           x="1235.4165"
+           y="128.0726"
+           style="font-size:24px" /></flowRegion><flowPara
+         id="flowPara3990"
+         style="font-size:24px">The Secret to Happiness Is 10 Specific Behaviours</flowPara><flowPara
+         id="flowPara3992"
+         style="font-size:24px" /></flowRoot>    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 4695.229,387.68181 -550.5331,0"
+       id="path3994"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="4143.9961"
+       y="326.0625"
+       id="text3996"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3998"
+         x="4143.9961"
+         y="326.0625"
+         style="font-size:12px;fill:#808080">12 Januari 2016</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4000"
+       y="351.77679"
+       x="4143.9961"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#0000ff"
+         y="351.77679"
+         x="4143.9961"
+         id="tspan4002"
+         sodipodi:role="line">Baca</tspan></text>
+    <flowRoot
+       transform="translate(2909.3299,286.29159)"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       id="flowRoot4004"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4006"><rect
+           style="font-size:24px"
+           y="128.0726"
+           x="1235.4165"
+           height="101.01525"
+           width="550.53314"
+           id="rect4008" /></flowRegion><flowPara
+         style="font-size:24px"
+         id="flowPara4010">The Secret to Happiness Is 10 Specific Behaviours</flowPara><flowPara
+         style="font-size:24px"
+         id="flowPara4012" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4014"
+       y="461.42294"
+       x="4143.9961"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#808080"
+         y="461.42294"
+         x="4143.9961"
+         id="tspan4016"
+         sodipodi:role="line">12 Januari 2016</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="4143.9961"
+       y="487.13724"
+       id="text4018"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4020"
+         x="4143.9961"
+         y="487.13724"
+         style="font-size:12px;fill:#0000ff">Baca</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4022"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       transform="translate(2909.3299,393.43445)"><flowRegion
+         id="flowRegion4024"><rect
+           id="rect4026"
+           width="550.53314"
+           height="101.01525"
+           x="1235.4165"
+           y="128.0726"
+           style="font-size:24px" /></flowRegion><flowPara
+         id="flowPara4028"
+         style="font-size:24px">The Secret to Happiness Is 10 Specific Behaviours</flowPara><flowPara
+         id="flowPara4030"
+         style="font-size:24px" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="4143.9961"
+       y="568.5658"
+       id="text4032"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4034"
+         x="4143.9961"
+         y="568.5658"
+         style="font-size:12px;fill:#808080">12 Januari 2016</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4036"
+       y="594.28009"
+       x="4143.9961"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#0000ff"
+         y="594.28009"
+         x="4143.9961"
+         id="tspan4038"
+         sodipodi:role="line">Baca</tspan></text>
+    <rect
+       transform="matrix(0,-1,-1,0,0,0)"
+       y="-6220.6768"
+       x="-1122.2361"
+       height="550"
+       width="50"
+       id="rect4040"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4046"
+       width="100"
+       height="1280"
+       x="126.79147"
+       y="-6585.6768"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4048"
+       y="183.20148"
+       x="5404.437"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       xml:space="preserve"><tspan
+         style="font-size:20px;fill:#000000"
+         y="183.20148"
+         x="5404.437"
+         id="tspan4050"
+         sodipodi:role="line">STAY INSPIRED</tspan></text>
+    <path
+       transform="matrix(1.25,0,0,1.25,4842.8198,-131.51841)"
+       d="m 1314.2858,246.6479 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
+       sodipodi:ry="20"
+       sodipodi:rx="20"
+       sodipodi:cy="246.6479"
+       sodipodi:cx="1294.2858"
+       id="path4052"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <flowRoot
+       transform="translate(4434.4959,227.70274)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       id="flowRoot4054"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4056"><rect
+           style="font-size:20px"
+           y="128.0726"
+           x="1235.4165"
+           height="101.01525"
+           width="550.53314"
+           id="rect4058" /></flowRegion><flowPara
+         style="font-size:20px"
+         id="flowPara4062">Judul</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4110"
+       width="29.95307"
+       height="550.76886"
+       x="407.56589"
+       y="-6221.0615"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-6220.7119"
+       x="529.34399"
+       height="550.06976"
+       width="485.6994"
+       id="rect4114"
+       style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4116"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       transform="translate(4433.1359,333.41703)"><flowRegion
+         id="flowRegion4118"><rect
+           id="rect4120"
+           width="550.53314"
+           height="101.01525"
+           x="1235.4165"
+           y="128.0726"
+           style="font-size:20px" /></flowRegion><flowPara
+         id="flowPara4122"
+         style="font-size:20px">Ide</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       x="5925.2427"
+       y="1101.082"
+       id="text4124"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4126"
+         x="5925.2427"
+         y="1101.082">S A V E</tspan></text>
+    <path
+       style="fill:none;stroke:#999999;stroke-width:0.97803354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2294.7266,1672.3622 1279.0434,0"
+       id="path4128"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4130"
+       d="m 2294.7266,1672.3622 1279.0434,0"
+       style="fill:none;stroke:#999999;stroke-width:0.97803354px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3101"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Colaborate-Bold;-inkscape-font-specification:Colaborate-Bold"
+       transform="translate(4435.0442,150.73915)"><flowRegion
+         id="flowRegion3103"><rect
+           id="rect3105"
+           width="550.53314"
+           height="101.01525"
+           x="1235.4165"
+           y="128.0726"
+           style="font-size:24px" /></flowRegion><flowPara
+         id="flowPara3107"
+         style="font-size:24px">Ide Baru</flowPara></flowRoot>  </g>
+</svg>

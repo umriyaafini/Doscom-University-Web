@@ -1,0 +1,1 @@
+Buatlah 3 buah dokumen html (list.html, form.html dan tabel.html) untuk menampilkan masing-masing list, form dan tabel. Konten untuk ketiga file tersebut tidak ditentukan. (poin utamanya adalah penggunaan tag-tag html yang tepat). Lalu buatlah sebuah file css yang berisi style dari ketiga dokumen tersebut.

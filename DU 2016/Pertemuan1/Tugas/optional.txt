@@ -1,0 +1,19 @@
+Daftar codecademy.com
+.......
+.......
+sudah?
+.......
+.......
+
+Ambil kelas HTML & CSS (https://www.codecademy.com/learn/web)
+Kerjakan Unit 1 - 5 (Kerjakan tiap hari 1 Unit, dan pastikan tiap unitnya paham)
+Jika anda merasa sudah cukup mahir dengan tag-tag dasar HTML dan property dasar CSS coba ambil kelas 
+
+-------------------------
+Next week 
+
+- Apa itu JavaScript?
+- Bagaimana menggunakan Js?
+- Apa itu DOM?
+- Events?
+- contoh penggunaan DOM dan Events?

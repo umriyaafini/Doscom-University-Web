@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+	<title>Ideas Blog</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+
+	<!-- font -->
+	<link href='https://fonts.googleapis.com/css?family=BenchNine:700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Oxygen:700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Quattrocento+Sans' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<header class="flex-container">
+		<div class="ideas-blog_title">
+			<a href="#"><h3>Stay inspired</h3></a>
+		</div>
+		<div class="ideas-blog_menu-btn flex-container">
+			<a href="#"><i class="material-icons">menu</i></a>
+		</div>
+	</header>
+
+	<div class="ideas-blog_body flex-container">
+		<div class="side-menu">
+			<ul>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="form_add.php">Tambah Ide</a></li>
+				<li><a href="post_list.php">List Post</a></li>
+			</ul>
+		</div>
+		<div class="ideas-blog-post_wrapper">
+			<div class="ideas-blog_entry-post">
+				<form>
+					<textarea name="postTitle" rows="1" placeholder="Judul"></textarea>
+					<textarea name="postContent" cols="30" rows="20" placeholder="Tulis Ide"></textarea>
+					<button class="btn-save" type="submit" name="postSave">Simpan</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<footer class="flex-container">
+		<i class="material-icons">favorite</i> <span>U. A.</span> 
+	</footer>
+</body>
+	<script src="assets/js/jquery-2.1.1.min.js"></script>
+	<script src="assets/js/app.js"></script>
+</html>

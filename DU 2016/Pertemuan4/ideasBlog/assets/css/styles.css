@@ -1,0 +1,302 @@
+/*Initial Styling*/
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+	color: #0000ff;
+}
+
+a:hover{
+	color: #000080;
+}
+
+body{
+	padding: 0;
+	max-width:1200px;
+	margin: 0 auto;
+	padding: 1em;
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+/*Material Icon Styling*/
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(iconfont/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: local('Material Icons'),
+       local('MaterialIcons-Regular'),
+       url(iconfont/MaterialIcons-Regular.woff2) format('woff2'),
+       url(iconfont/MaterialIcons-Regular.woff) format('woff'),
+       url(iconfont/MaterialIcons-Regular.ttf) format('truetype');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+/*Header Styling*/
+header{
+	min-height: 50px;
+	height: 100px;
+	width: 100%;
+	/*border:1px solid #000;*/
+	-webkit-justify-content: space-between;
+            justify-content: space-between;
+}
+
+/*Container using flex*/
+.flex-container{
+	display: flex;
+	display: -webkit-flex;
+
+}
+
+/*Blog Styling*/
+.ideas-blog_title, 
+.ideas-blog_menu-btn, 
+.ideas-blog_menu-btn a,
+footer span,
+footer .material-icons{
+	-webkit-align-self: center;
+            align-self: center;
+}
+
+.ideas-blog_title a{
+	text-transform: uppercase;
+	color: #000;
+	font-family: 'BenchNine', sans-serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+.ideas-blog_menu-btn{
+	width: 40px;
+	height: 40px;
+	background-color: #000;
+	border-radius: 50%;
+	-webkit-align-content: center;
+			align-content: center;
+}
+.ideas-blog_menu-btn a{
+	margin: 0 auto;
+	color: #fff;	
+	padding: 7px 0;
+}
+
+.ideas-blog_body{
+	width: 100%;
+	position: relative;
+}
+
+.ideas-blog-post_wrapper{
+	-webkit-order: -1;
+            order: -1;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 580px;
+	padding: 20px 0;
+}
+
+.ideas-blog-post_list{
+	margin: 0 auto;
+	width: 100%;
+	max-width: 800px;
+	padding: 20px 0;
+}
+
+.ideas-blog-post_title{
+	font-size: 36px;
+	text-transform: capitalize;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.ideas-blog-post_date{
+	font-size: 12px;
+	font-weight: 700;
+	color: #777;
+}
+
+.ideas-blog-post_content{
+	padding-top: 20px;
+	font-size: 21px;
+	line-height: 30px;
+	color: #333;
+}
+
+.ideas-blog_comments{
+	margin-top: 100px;
+	border-top: 2px solid #eee;
+}
+
+.ideas-blog_comments form input,
+.ideas-blog_comments form textarea{
+	display: inline-block;
+	width: 100%;
+	margin: 5px 0;
+	font-size: 16px;
+	padding: 3px;
+	border:none;
+	border: 2px solid #eee;
+}
+
+.ideas-blog_entry-post form textarea[name=postContent]{
+	display: inline-block;
+	width: 100%;
+	margin: 5px 0;
+	font-size: 21px;
+	padding: 10px;
+	color: #333;
+	font-family: 'Quattrocento Sans', sans-serif;
+	border:none;
+	border: 2px solid #eee;
+}
+
+.ideas-blog_entry-post form textarea[name=postTitle]{
+	display: inline-block;
+	width: 100%;
+	margin: 15px 0;
+	font-size: 36px;
+	padding: 10px;
+	text-transform: capitalize;
+	font-family: 'Oxygen', sans-serif;
+	border: none;
+	border: 2px solid #eee;
+}
+
+.ideas-blog-post_list{
+	width: 100%;
+}
+.ideas-blog-post_list td{
+	padding: 5px;
+}
+.ideas-blog-post_item li{
+	padding: 0;
+	list-style: none;
+	border-bottom: 2px solid #eee;
+	padding-bottom: 10px;
+}
+
+.ideas-blog-post_item h1{
+	font-family: 'Oxygen', sans-serif;
+}
+
+.ideas-blog-post_item span{
+	display: inline-block;
+	margin-right: 10px;
+	color: #777;
+}
+
+.btn-save{
+	margin-top: 10px;
+	font-size: 16px;
+	padding: 10px 20px;
+	border:none;
+	color: #777;
+	border:2px solid #eee;
+	background-color: #fff;
+}
+
+.btn-save:hover,
+.btn-save:focus{
+	background-color: #eee;
+}
+
+.btn-action{
+	font-size: 16px;
+	padding: 3px 10px;
+	border:none;
+	color: #777;
+	border:2px solid #eee;
+	background-color: #fff;
+}
+
+.tbl-title{
+	font-size: 20px;
+	margin: 5px;
+	font-weight: bold;
+	font-family: 'Oxygen', sans-serif;
+	text-transform: capitalize;
+}
+
+.tbl-date{
+	color: #777;
+	width: 120px;
+}
+.publish{
+	border:2px solid #00aa44;
+	color: #00aa44;
+}
+
+.text-title{
+	font-family: 'Oxygen', sans-serif;
+	text-transform: capitalize;	
+}
+
+/*Footer Styling*/
+footer{
+	background-color: #fff;
+	-webkit-align-content: center;
+			align-content: center;
+    height: 40px;
+    width: 100%;
+}
+
+footer span{
+	margin-left: 5px;
+	font-size: 14px;
+	color: #ff0066;
+}
+
+footer .material-icons{
+	font-size: 14px;
+	color: #ff0066;
+}
+
+
+/*Side menu Styling*/
+.side-menu{
+	display: inline-block;
+	position: absolute;
+	right: 0;
+	z-index: 10;
+	width: 200px;
+	display: none;
+}
+.side-menu ul{
+	list-style-type: none;
+}
+
+.side-menu ul li{
+	font-size: 20px;
+	padding: 5px 0;
+	text-align: right;
+}

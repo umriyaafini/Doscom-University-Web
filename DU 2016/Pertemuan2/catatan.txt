@@ -1,0 +1,26 @@
+learnlayout beserta contohnya : 
+    - https://github.com/umriyaafini/belajar-css-layouting (sumber learnlayout)
+
+contoh layout dengan display block dan inline-block : 
+    - https://github.com/umriyaafini/layout-css
+
+cari warna : 
+    - https://color.adobe.com/
+    - http://flatuicolorpicker.com/
+
+web icon :
+    - https://design.google.com/icons/
+    - http://fontawesome.io/
+
+font gratis
+    - https://www.google.com/fonts/
+
+framework 
+    - http://getbootstrap.com/
+    - http://www.getmdl.io/
+    
+inspirasi web keren :
+    - http://awwwards.com/
+    - http://fontawesome.io/
+
+

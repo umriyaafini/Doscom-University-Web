@@ -1,0 +1,12 @@
+Apa kegunaan <!DOCTYPE html>?
+Apa saja tag baru pada HTML5?
+Bagaimana kode support HTML5 untuk IE8 dan sebelumnya?
+Apa itu psuedo element dan bagaimana cara menggunakannya?
+Apa perbedaan selector "div, p" dan selector "div p"?
+Apa saja value dari properti "position"?
+Apa perbedaan display "block" dan display "inline"?
+
+semangat ;)
+
+Jawaban 
+------------------------------

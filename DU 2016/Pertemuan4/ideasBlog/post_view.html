@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+	<title>Ideas Blog</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+
+	<!-- font -->
+	<link href='https://fonts.googleapis.com/css?family=BenchNine:700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Oxygen:700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Quattrocento+Sans' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<header class="flex-container">
+		<div class="ideas-blog_title">
+			<a href="#"><h3>Stay inspired</h3></a>
+		</div>
+		<div class="ideas-blog_menu-btn flex-container">
+			<a href="#"><i class="material-icons">menu</i></a>
+		</div>
+	</header>
+
+	<div class="ideas-blog_body flex-container">
+		<div class="side-menu">
+			<ul>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="form_add.php">Tambah Ide</a></li>
+				<li><a href="post_list.php">List Post</a></li>
+			</ul>
+		</div>
+		<div class="ideas-blog-post_wrapper">
+			<h1 class="ideas-blog-post_title">Reality wasn't really reality</h1>
+			<p class="ideas-blog-post_date">12 April 2016</p>
+			<p class="ideas-blog-post_content">
+				A fundamental conslusion of the new physics also acknowledge that the observer creates the reality. As observers, we are personally involved with the creation of our own reality. Physicist are being forced to admit that the universe is a "mental" construction. Pioneering physicist Sir James Jeans wrote: "The stram of knowledge is heading toward a non-mechanical reality; the universe begins to look more like a great thought that like a great machine. Mind no longer appears to be an accedental intruder into the realm of matter, we ought rather hail it as the creator and governor of the realm of mater. (R.C. Henry, "The Mental Universe"; Nature 436:29,2005)
+			</p>
+			<div class="ideas-blog_comments">
+				<h2>Komentar</h2>
+				<form method="post" action="">
+					<input type="text" name="commentName" placeholder="Nama"/>
+					<input type="email" name="commentEmail" placeholder="Email"/>
+					<textarea name="commentContent" cols="30" rows="5" placeholder="Komentar"></textarea>
+					<button class="btn-save" type="submit" name="commentAdd">Tambah</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<footer class="flex-container">
+		<i class="material-icons">favorite</i> <span>U. A.</span> 
+	</footer>
+</body>
+	<script src="assets/js/jquery-2.1.1.min.js"></script>
+	<script src="assets/js/app.js"></script>
+</html>
